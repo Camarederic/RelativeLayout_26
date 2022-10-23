@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RelativeLayout_26</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="new_user">New User?</string>
+    <string name="register">Register</string>
+</resources>
